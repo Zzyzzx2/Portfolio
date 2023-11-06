@@ -7,8 +7,8 @@ export default function About() {
                 <div className="flex">
                     <div className="w-screen h-auto">
                         <div className="w-3/6 m-auto">
-                            <h1 className='text-white text-center text-4xl'>About Me</h1>
-                            <p className='text-white text-center mt-5'>Hi, my name is Rahan Shankar and I'm from Chennai, Tamil Nadu India. <br></br> <br></br>
+                            <h1 className='text-white text-center text-6xl'>About Me</h1>
+                            <p className='text-white text-center mt-5 '>Hi, my name is Rahan Shankar and I'm from Chennai, Tamil Nadu India. <br></br> <br></br>
 
 I am currently pursuing an undergraduate degree in Computer Science and Engineering with a Specilization in AI and ML at Vellore Institute of Technology, Chennai.
 <br></br> <br></br>

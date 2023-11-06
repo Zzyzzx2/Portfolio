@@ -22,7 +22,7 @@ export default function Contact() {
                     <div className='bg-gradient-to-tr from-violet-700 to-fuchsia-400 shadow-black shadow-2xl text-center rounded-lg lg:w-auto'>
                         <div className="p-6">
                             <h2 className="p-4 mb-4 text-4xl tracking-tight font-extrabold text-center text-white">Contact Me</h2>
-                           {/* // <p className="mb-8 lg:mb-16 font-light text-center text-gray-300 sm:text-xl">Benimle iş birliği yapmak istiyorsanız lütfen projenizden ufak brief vermeyi unutmayın!</p> */}
+            
                             <form ref={form} onSubmit={sendEmail} className="space-y-8" method='post' >
                                 <div>
                                     <label for="subject" className="block mb-2 text-sm font-medium text-white">Name</label>
